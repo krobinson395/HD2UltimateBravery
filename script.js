@@ -45,7 +45,8 @@ const abilities = [
     {name: "Railgun", icon:"./StrategemIcons/Weapon/railgun.png", type:"Weapon"},
     {name: "Recoilless Rifle", icon:"./StrategemIcons/Weapon/recoilless_rifle.png", type:"Backpack_Weapon"},
     {name: "Spear", icon:"./StrategemIcons/Weapon/spear.png", type:"Backpack_Weapon"},
-    {name: "Stalwart", icon:"./StrategemIcons/Weapon/stalwart.png", type:"Weapon"}
+    {name: "Stalwart", icon:"./StrategemIcons/Weapon/stalwart.png", type:"Weapon"},
+    {name: "Exosuit", icon:"./StrategemIcons/Defensive/mech.png", type:"Mech"}
 
 ];
 
